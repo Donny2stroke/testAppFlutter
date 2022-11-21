@@ -1,0 +1,4 @@
+#Mon Nov 21 21:50:27 CET 2022
+base.0=D\:\\mobileDevelopment\\first_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
